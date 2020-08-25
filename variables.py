@@ -1,7 +1,7 @@
 #Here we store all the final variables that we use across the code
 
 #WRITE HERE YOUR API_KEY. you should register and request one->(https://developer.riotgames.com/)
-APIKEY = "RGAPI-f51d2d18-e1fa-4766-a713-af74d72736d0"
+APIKEY = "" 
 
 #First part of the QUERY to get the GAMESUMMARY JSON file in EUWest server
 matchRequestFirstPart = "https://euw1.api.riotgames.com/lol/match/v4/matches/"
